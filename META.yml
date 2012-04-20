@@ -1,5 +1,5 @@
 ---
-abstract: 'Common policy for NAP modules'
+abstract: 'Declare test cases and feed the configuration data to tests'
 author:
   - 'Johan Lindstrom <johanl@cpan.org> - on behalf of Net-A-Porter'
 build_requires: {}
@@ -25,4 +25,4 @@ requires:
   warnings: 0
 resources:
   repository: ssh://git@gitosis.net-a-porter.com:nap-policy
-version: 0.0.1
+version: 0.0.2

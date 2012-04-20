@@ -1,5 +1,5 @@
 {
-   "abstract" : "Common policy for NAP modules",
+   "abstract" : "Declare test cases and feed the configuration data to tests",
    "author" : [
       "Johan Lindstrom <johanl@cpan.org> - on behalf of Net-A-Porter"
    ],
@@ -44,6 +44,6 @@
          "web" : "http://gitosis.net-a-porter.com/cgit/nap-policy"
       }
    },
-   "version" : "0.0.1"
+   "version" : "0.0.2"
 }
 

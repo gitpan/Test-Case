@@ -1,6 +1,6 @@
 package Test::Case;
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
-  $Test::Case::VERSION = '0.0.1'; ## no critic (RequireUseStrict, RequireUseWarnings)
+  $Test::Case::VERSION = '0.0.2'; ## no critic (RequireUseStrict, RequireUseWarnings)
 }
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
   $Test::Case::DIST = 'Test-Case';  ## no critic (RequireUseStrict, RequireUseWarnings)
@@ -124,7 +124,7 @@ being run.
 
 C<test_each_case> will help you with this by using the case C<description>
 and C<prefix>. But you'll also find it useful to C<note> the name and
-value of important varaiables in the test code.
+value of important variables in the test code.
 
 =head1 EXAMPLE
 

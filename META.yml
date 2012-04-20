@@ -1,0 +1,28 @@
+---
+abstract: 'Common policy for NAP modules'
+author:
+  - 'Johan Lindstrom <johanl@cpan.org> - on behalf of Net-A-Porter'
+build_requires: {}
+configure_requires:
+  ExtUtils::MakeMaker: 6.30
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.300009, CPAN::Meta::Converter version 2.120630'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Test-Case
+no_index:
+  directory:
+    - t/lib
+requires:
+  Data::Printer: 0
+  Exporter: 0
+  Guard: 0
+  Test::More: 0
+  Test::More::Prefix: 0
+  strict: 0
+  warnings: 0
+resources:
+  repository: ssh://git@gitosis.net-a-porter.com:nap-policy
+version: 0.0.1

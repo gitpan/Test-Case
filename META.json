@@ -1,0 +1,49 @@
+{
+   "abstract" : "Common policy for NAP modules",
+   "author" : [
+      "Johan Lindstrom <johanl@cpan.org> - on behalf of Net-A-Porter"
+   ],
+   "dynamic_config" : 0,
+   "generated_by" : "Dist::Zilla version 4.300009, CPAN::Meta::Converter version 2.120630",
+   "license" : [
+      "perl_5"
+   ],
+   "meta-spec" : {
+      "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
+      "version" : "2"
+   },
+   "name" : "Test-Case",
+   "no_index" : {
+      "directory" : [
+         "t/lib"
+      ]
+   },
+   "prereqs" : {
+      "configure" : {
+         "requires" : {
+            "ExtUtils::MakeMaker" : "6.30"
+         }
+      },
+      "runtime" : {
+         "requires" : {
+            "Data::Printer" : "0",
+            "Exporter" : "0",
+            "Guard" : "0",
+            "Test::More" : "0",
+            "Test::More::Prefix" : "0",
+            "strict" : "0",
+            "warnings" : "0"
+         }
+      }
+   },
+   "release_status" : "stable",
+   "resources" : {
+      "repository" : {
+         "type" : "git",
+         "url" : "ssh://git@gitosis.net-a-porter.com:nap-policy",
+         "web" : "http://gitosis.net-a-porter.com/cgit/nap-policy"
+      }
+   },
+   "version" : "0.0.1"
+}
+

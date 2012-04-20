@@ -1,6 +1,6 @@
 package Test::Case;
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
-  $Test::Case::VERSION = '0.0.2'; ## no critic (RequireUseStrict, RequireUseWarnings)
+  $Test::Case::VERSION = '0.0.3'; ## no critic (RequireUseStrict, RequireUseWarnings)
 }
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
   $Test::Case::DIST = 'Test-Case';  ## no critic (RequireUseStrict, RequireUseWarnings)
@@ -251,6 +251,13 @@ L<http://cpanratings.perl.org/d/Test-Case>
 L<http://search.cpan.org/dist/Test-Case/>
 
 =back
+
+
+=head1 CONTRIBUTE
+
+The source for this module is on GitHub: https://github.com/jplindstrom/p5-Test-Case
+
+Patches welcome, etc.
 
 
 =head1 AUTHOR

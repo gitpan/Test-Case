@@ -25,4 +25,4 @@ requires:
   warnings: 0
 resources:
   repository: ssh://git@gitosis.net-a-porter.com:nap-policy
-version: 0.0.2
+version: 0.0.3

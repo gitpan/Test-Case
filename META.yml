@@ -24,5 +24,5 @@ requires:
   strict: 0
   warnings: 0
 resources:
-  repository: ssh://git@gitosis.net-a-porter.com:nap-policy
-version: 0.0.3
+  repository: git://github.com/jplindstrom/p5-Test-Case.git
+version: 0.0.4

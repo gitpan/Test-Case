@@ -1,6 +1,6 @@
 package Test::Case;
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
-  $Test::Case::VERSION = '0.0.3'; ## no critic (RequireUseStrict, RequireUseWarnings)
+  $Test::Case::VERSION = '0.0.4'; ## no critic (RequireUseStrict, RequireUseWarnings)
 }
 BEGIN {  ## no critic (RequireUseStrict, RequireUseWarnings)
   $Test::Case::DIST = 'Test-Case';  ## no critic (RequireUseStrict, RequireUseWarnings)

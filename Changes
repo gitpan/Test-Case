@@ -1,5 +1,10 @@
 Revision history for Test-Case
 
+0.0.4     2012-04-23 10:36:39 Europe/London
+
+Fixed dist.init config
+
+
 0.0.3     2012-04-20 15:29:18 Europe/London
 
 Add CONTRIBUTOR POD section
